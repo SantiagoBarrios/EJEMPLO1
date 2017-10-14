@@ -1,5 +1,5 @@
 ---
-title       : alsdlasjdal
+title       : 
 subtitle    : 
 author      : Santiago Barrios
 job         : 
